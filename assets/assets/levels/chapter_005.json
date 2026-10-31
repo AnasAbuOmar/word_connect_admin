@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 5,
+  "theme": "cairo",
+  "themeName": "القاهرة",
+  "levels": [
+    {
+      "id": 41,
+      "wheel": [
+        "ل",
+        "ع",
+        "ا",
+        "ب"
+      ],
+      "grid": {
+        "rows": 5,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "لاعب",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "لعب",
+            "row": 2,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "ألعب",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "بال",
+        "عال",
+        "علب",
+        "باع",
+        "بلع"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 42,
+      "wheel": [
+        "ت",
+        "م",
+        "ق",
+        "ل"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 6,
+        "placements": [
+          {
+            "word": "مقتل",
+            "row": 1,
+            "col": 2,
+            "dir": "h"
+          },
+          {
+            "word": "قمت",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "قتل",
+            "row": 0,
+            "col": 4,
+            "dir": "v"
+          },
+          {
+            "word": "قلت",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "قلم"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 43,
+      "wheel": [
+        "ي",
+        "ر",
+        "ب",
+        "غ"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 7,
+        "placements": [
+          {
+            "word": "يرغب",
+            "row": 1,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "غبي",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "غير",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "غريب",
+            "row": 0,
+            "col": 3,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "غرب",
+        "ربي",
+        "ريب",
+        "بيغ",
+        "بير",
+        "بغير"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 44,
+      "wheel": [
+        "ع",
+        "ق",
+        "ت",
+        "ط"
+      ],
+      "grid": {
+        "rows": 5,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "قطعت",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "تقع",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "قطع",
+            "row": 2,
+            "col": 0,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "تقطع"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 45,
+      "wheel": [
+        "ا",
+        "ع",
+        "ر",
+        "ش"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 7,
+        "placements": [
+          {
+            "word": "شارع",
+            "row": 1,
+            "col": 3,
+            "dir": "h"
+          },
+          {
+            "word": "شعر",
+            "row": 0,
+            "col": 6,
+            "dir": "v"
+          },
+          {
+            "word": "عشر",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "أشعر",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "عاش",
+        "عار",
+        "شعار",
+        "شراع",
+        "شاعر"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 46,
+      "wheel": [
+        "ي",
+        "ع",
+        "ف",
+        "ض"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "ضعيف",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "ضعف",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "يضع",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "ضيف",
+        "فضي"
+      ],
+      "difficulty": 55
+    },
+    {
+      "id": 47,
+      "wheel": [
+        "ة",
+        "ي",
+        "د",
+        "ج"
+      ],
+      "grid": {
+        "rows": 5,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "جيدة",
+            "row": 4,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "يجد",
+            "row": 2,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "جدي",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "جيد",
+            "row": 0,
+            "col": 1,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "جدية",
+        "جدة"
+      ],
+      "difficulty": 55
+    },
+    {
+      "id": 48,
+      "wheel": [
+        "ي",
+        "ع",
+        "ق",
+        "ل"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "عقلي",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "يقع",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "يقل",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "قيل",
+        "عقل",
+        "يعقل",
+        "علق"
+      ],
+      "difficulty": 55
+    },
+    {
+      "id": 49,
+      "wheel": [
+        "ل",
+        "ت",
+        "م",
+        "ك"
+      ],
+      "grid": {
+        "rows": 6,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "تكلم",
+            "row": 3,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "ملك",
+            "row": 3,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "تلك",
+            "row": 5,
+            "col": 1,
+            "dir": "h"
+          },
+          {
+            "word": "تملك",
+            "row": 0,
+            "col": 1,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "تكمل"
+      ],
+      "difficulty": 55
+    },
+    {
+      "id": 50,
+      "wheel": [
+        "ب",
+        "ق",
+        "ا",
+        "س"
+      ],
+      "grid": {
+        "rows": 6,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "سباق",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "سبق",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "بأس",
+            "row": 0,
+            "col": 1,
+            "dir": "h"
+          },
+          {
+            "word": "سابق",
+            "row": 2,
+            "col": 0,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "ساق",
+        "قاس",
+        "أسبق"
+      ],
+      "difficulty": 55
+    }
+  ]
+}

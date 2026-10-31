@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 1,
+  "theme": "amman",
+  "themeName": "عمّان",
+  "levels": [
+    {
+      "id": 1,
+      "wheel": [
+        "ق",
+        "ل",
+        "م"
+      ],
+      "grid": {
+        "rows": 1,
+        "cols": 3,
+        "placements": [
+          {
+            "word": "قلم",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [],
+      "difficulty": 0,
+      "tutorial": true
+    },
+    {
+      "id": 2,
+      "wheel": [
+        "س",
+        "ي",
+        "ت",
+        "ل"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "ليست",
+            "row": 1,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "لست",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "ليس",
+            "row": 1,
+            "col": 0,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "ليت",
+        "سيل"
+      ],
+      "difficulty": 49
+    },
+    {
+      "id": 3,
+      "wheel": [
+        "ج",
+        "ر",
+        "ل",
+        "ا"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "رجال",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "أجل",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "رجل",
+            "row": 1,
+            "col": 1,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "راج",
+        "أجر",
+        "جار"
+      ],
+      "difficulty": 49
+    },
+    {
+      "id": 4,
+      "wheel": [
+        "ح",
+        "د",
+        "و",
+        "ا"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 6,
+        "placements": [
+          {
+            "word": "واحد",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "أود",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "أحد",
+            "row": 0,
+            "col": 3,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "حاد"
+      ],
+      "difficulty": 49
+    },
+    {
+      "id": 5,
+      "wheel": [
+        "ه",
+        "ذ",
+        "ب",
+        "ا"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "ذاهب",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "ذهب",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "هذا",
+            "row": 0,
+            "col": 1,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "أذهب",
+        "ذهاب",
+        "آبه",
+        "ذهبا",
+        "ذاب"
+      ],
+      "difficulty": 50
+    },
+    {
+      "id": 6,
+      "wheel": [
+        "د",
+        "ث",
+        "ا",
+        "ح"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "حادث",
+            "row": 1,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "حدث",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "أحد",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "حاد",
+        "أحدث"
+      ],
+      "difficulty": 50
+    },
+    {
+      "id": 7,
+      "wheel": [
+        "م",
+        "ت",
+        "ف",
+        "ه"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "فهمت",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "فهم",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "تفهم",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "فمه",
+        "تهم"
+      ],
+      "difficulty": 50
+    },
+    {
+      "id": 8,
+      "wheel": [
+        "ف",
+        "ع",
+        "ا",
+        "ل"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "أفعل",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "ألف",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "فعلا",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "عال",
+        "فاعل",
+        "عفا"
+      ],
+      "difficulty": 50
+    },
+    {
+      "id": 9,
+      "wheel": [
+        "ع",
+        "ا",
+        "م",
+        "ط"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "طعام",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "معا",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "عام",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "طعم"
+      ],
+      "difficulty": 50
+    },
+    {
+      "id": 10,
+      "wheel": [
+        "م",
+        "ي",
+        "ة",
+        "ت"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "ميتة",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "يتم",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "ميت",
+            "row": 0,
+            "col": 2,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "يمت"
+      ],
+      "difficulty": 51
+    }
+  ]
+}

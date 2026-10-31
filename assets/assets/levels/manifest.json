@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "theme": "amman",
+      "themeName": "عمّان",
+      "file": "chapter_001.json",
+      "levels": 10
+    },
+    {
+      "id": 2,
+      "theme": "petra",
+      "themeName": "البتراء",
+      "file": "chapter_002.json",
+      "levels": 10
+    },
+    {
+      "id": 3,
+      "theme": "jerash",
+      "themeName": "جرش",
+      "file": "chapter_003.json",
+      "levels": 10
+    },
+    {
+      "id": 4,
+      "theme": "damascus",
+      "themeName": "دمشق",
+      "file": "chapter_004.json",
+      "levels": 10
+    },
+    {
+      "id": 5,
+      "theme": "cairo",
+      "themeName": "القاهرة",
+      "file": "chapter_005.json",
+      "levels": 10
+    },
+    {
+      "id": 6,
+      "theme": "beirut",
+      "themeName": "بيروت",
+      "file": "chapter_006.json",
+      "levels": 10
+    },
+    {
+      "id": 7,
+      "theme": "baghdad",
+      "themeName": "بغداد",
+      "file": "chapter_007.json",
+      "levels": 10
+    },
+    {
+      "id": 8,
+      "theme": "riyadh",
+      "themeName": "الرياض",
+      "file": "chapter_008.json",
+      "levels": 10
+    },
+    {
+      "id": 9,
+      "theme": "jeddah",
+      "themeName": "جدة",
+      "file": "chapter_009.json",
+      "levels": 10
+    },
+    {
+      "id": 10,
+      "theme": "marrakesh",
+      "themeName": "مراكش",
+      "file": "chapter_010.json",
+      "levels": 10
+    },
+    {
+      "id": 11,
+      "theme": "tunis",
+      "themeName": "تونس",
+      "file": "chapter_011.json",
+      "levels": 10
+    },
+    {
+      "id": 12,
+      "theme": "muscat",
+      "themeName": "مسقط",
+      "file": "chapter_012.json",
+      "levels": 10
+    },
+    {
+      "id": 13,
+      "theme": "doha",
+      "themeName": "الدوحة",
+      "file": "chapter_013.json",
+      "levels": 10
+    },
+    {
+      "id": 14,
+      "theme": "kuwait",
+      "themeName": "الكويت",
+      "file": "chapter_014.json",
+      "levels": 10
+    },
+    {
+      "id": 15,
+      "theme": "alexandria",
+      "themeName": "الإسكندرية",
+      "file": "chapter_015.json",
+      "levels": 10
+    },
+    {
+      "id": 16,
+      "theme": "fes",
+      "themeName": "فاس",
+      "file": "chapter_016.json",
+      "levels": 10
+    },
+    {
+      "id": 17,
+      "theme": "aleppo",
+      "themeName": "حلب",
+      "file": "chapter_017.json",
+      "levels": 10
+    },
+    {
+      "id": 18,
+      "theme": "khartoum",
+      "themeName": "الخرطوم",
+      "file": "chapter_018.json",
+      "levels": 10
+    },
+    {
+      "id": 19,
+      "theme": "manama",
+      "themeName": "المنامة",
+      "file": "chapter_019.json",
+      "levels": 10
+    },
+    {
+      "id": 20,
+      "theme": "aqaba",
+      "themeName": "العقبة",
+      "file": "chapter_020.json",
+      "levels": 10
+    },
+    {
+      "id": 21,
+      "theme": "jerusalem",
+      "themeName": "القدس",
+      "file": "chapter_021.json",
+      "levels": 10
+    },
+    {
+      "id": 22,
+      "theme": "gaza",
+      "themeName": "غزة",
+      "file": "chapter_022.json",
+      "levels": 10
+    },
+    {
+      "id": 23,
+      "theme": "rabat",
+      "themeName": "الرباط",
+      "file": "chapter_023.json",
+      "levels": 10
+    },
+    {
+      "id": 24,
+      "theme": "algiers",
+      "themeName": "الجزائر",
+      "file": "chapter_024.json",
+      "levels": 10
+    },
+    {
+      "id": 25,
+      "theme": "sanaa",
+      "themeName": "صنعاء",
+      "file": "chapter_025.json",
+      "levels": 10
+    },
+    {
+      "id": 26,
+      "theme": "tripoli",
+      "themeName": "طرابلس",
+      "file": "chapter_026.json",
+      "levels": 10
+    },
+    {
+      "id": 27,
+      "theme": "casablanca",
+      "themeName": "الدار البيضاء",
+      "file": "chapter_027.json",
+      "levels": 10
+    },
+    {
+      "id": 28,
+      "theme": "sharjah",
+      "themeName": "الشارقة",
+      "file": "chapter_028.json",
+      "levels": 10
+    },
+    {
+      "id": 29,
+      "theme": "taif",
+      "themeName": "الطائف",
+      "file": "chapter_029.json",
+      "levels": 10
+    },
+    {
+      "id": 30,
+      "theme": "luxor",
+      "themeName": "الأقصر",
+      "file": "chapter_030.json",
+      "levels": 10
+    }
+  ]
+}
