@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "chapterId": 4,
+  "theme": "damascus",
+  "themeName": "دمشق",
+  "levels": [
+    {
+      "id": 31,
+      "wheel": [
+        "ل",
+        "س",
+        "ا",
+        "ت"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "سألت",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "لست",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "تسأل",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "سأل"
+      ],
+      "difficulty": 53
+    },
+    {
+      "id": 32,
+      "wheel": [
+        "ب",
+        "ر",
+        "ع",
+        "ا"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 5,
+        "placements": [
+          {
+            "word": "بارع",
+            "row": 2,
+            "col": 1,
+            "dir": "h"
+          },
+          {
+            "word": "عبر",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "أربع",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "عار",
+        "ربع",
+        "بار",
+        "أعبر",
+        "باع",
+        "رعب"
+      ],
+      "difficulty": 53
+    },
+    {
+      "id": 33,
+      "wheel": [
+        "ا",
+        "ت",
+        "ب",
+        "ك"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "كتاب",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "كتب",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "أكتب",
+            "row": 0,
+            "col": 1,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "بات",
+        "كاتب",
+        "تاك",
+        "كأب"
+      ],
+      "difficulty": 53
+    },
+    {
+      "id": 34,
+      "wheel": [
+        "ش",
+        "ر",
+        "ع",
+        "ت"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "شعرت",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "شعر",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "تشعر",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "عشر",
+            "row": 3,
+            "col": 1,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "عشت"
+      ],
+      "difficulty": 53
+    },
+    {
+      "id": 35,
+      "wheel": [
+        "ت",
+        "ل",
+        "ت",
+        "ق"
+      ],
+      "grid": {
+        "rows": 5,
+        "cols": 5,
+        "placements": [
+          {
+            "word": "قتلت",
+            "row": 4,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "قتل",
+            "row": 2,
+            "col": 2,
+            "dir": "v"
+          },
+          {
+            "word": "قلت",
+            "row": 2,
+            "col": 2,
+            "dir": "h"
+          },
+          {
+            "word": "تقتل",
+            "row": 0,
+            "col": 4,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "تلقت"
+      ],
+      "difficulty": 53
+    },
+    {
+      "id": 36,
+      "wheel": [
+        "ج",
+        "ح",
+        "ا",
+        "ن"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "نجاح",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "نجح",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "حان",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "جناح",
+        "ناجح",
+        "نجا",
+        "أنجح",
+        "حاج"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 37,
+      "wheel": [
+        "ا",
+        "ر",
+        "ق",
+        "ب"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 6,
+        "placements": [
+          {
+            "word": "قارب",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "قرب",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "أقرب",
+            "row": 0,
+            "col": 2,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "راقب",
+        "قبر",
+        "بار",
+        "بقر",
+        "قرأ",
+        "برق"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 38,
+      "wheel": [
+        "ر",
+        "ق",
+        "ا",
+        "ف"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "رفاق",
+            "row": 1,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "أقف",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "فرق",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          }
+        ]
+      },
+      "bonus": [
+        "فأر",
+        "فارق",
+        "فرقا",
+        "قرأ",
+        "أفق",
+        "فقر",
+        "رفق"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 39,
+      "wheel": [
+        "ي",
+        "ق",
+        "م",
+        "و"
+      ],
+      "grid": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          {
+            "word": "قومي",
+            "row": 0,
+            "col": 0,
+            "dir": "h"
+          },
+          {
+            "word": "قوي",
+            "row": 0,
+            "col": 0,
+            "dir": "v"
+          },
+          {
+            "word": "يوم",
+            "row": 0,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "يقوم",
+            "row": 2,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [
+        "قوم",
+        "يقم",
+        "قيم"
+      ],
+      "difficulty": 54
+    },
+    {
+      "id": 40,
+      "wheel": [
+        "ي",
+        "د",
+        "ث",
+        "ح"
+      ],
+      "grid": {
+        "rows": 4,
+        "cols": 7,
+        "placements": [
+          {
+            "word": "حديث",
+            "row": 1,
+            "col": 3,
+            "dir": "h"
+          },
+          {
+            "word": "حيث",
+            "row": 0,
+            "col": 5,
+            "dir": "v"
+          },
+          {
+            "word": "حدث",
+            "row": 1,
+            "col": 3,
+            "dir": "v"
+          },
+          {
+            "word": "يحدث",
+            "row": 3,
+            "col": 0,
+            "dir": "h"
+          }
+        ]
+      },
+      "bonus": [],
+      "difficulty": 54
+    }
+  ]
+}
