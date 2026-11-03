@@ -1,11 +1,11 @@
 {
-    "name": "wasla_admin",
-    "short_name": "wasla_admin",
+    "name": "إدارة سجال",
+    "short_name": "إدارة سجال",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A2C35",
+    "theme_color": "#0F3E4A",
+    "description": "لوحة إدارة سجال",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
